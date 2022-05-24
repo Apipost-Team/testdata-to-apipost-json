@@ -4,14 +4,15 @@ testData-to-ApiPost-json 将ApiPost流程测试中文件数据转为ApiPost可�
 
 - 支持格式 
 - txt/csv
-```name,age
-
+```
+name,age
 join,18
 ```
 
 - json
 
-```[
+```
+[
     {"name": "join","age":"18"},
     {"name": "tom"},
     {"name": "cat","age": "20"}
