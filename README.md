@@ -38,4 +38,4 @@ let json=str2testData(`name,age\r\njoin,18`);
 
 # 开源协议
 
-testData-to-ApiPost-json 遵循 [MIT 协议](https://github.com/Apipost-Team/testData-to-ApiPost-json)。
+testData-to-ApiPost-json 遵循 [MIT 协议](https://github.com/Apipost-Team/testdata-to-apipost-json)。
